@@ -12,3 +12,7 @@ Then use command node app.js in your localhost
 
 
 Technologies used -: NodeJS, EJS, MongoDb, Mongooose, HTML, CSS
+
+
+
+Change dBURI to your Mongodb atlas uri
